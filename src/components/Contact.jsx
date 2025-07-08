@@ -6,7 +6,7 @@ export const Contact = () => {
       <div className="flex justify-center gap-6">
         <a href="https://github.com/Xgsusbrx" target="_blank" className="text-gray-800 hover:text-black">GitHub</a>
         <a href="https://www.linkedin.com/in/brianluzardo/" target="_blank" className="text-gray-800 hover:text-black">LinkedIn</a>
-        <a href="mailto:brian95gsus@gmail.com" className="text-gray-800 hover:text-black">Email</a>
+        <a href="mailto:brian95gsus@gmail.com?body=hola&subject=hola2" className="text-gray-800 hover:text-black">Email</a>
               
       </div>
     </section>
