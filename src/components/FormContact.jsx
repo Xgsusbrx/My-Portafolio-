@@ -7,9 +7,9 @@ export const FormContact = () => {
     <>
       <form>
         <label>Asunto </label>
-        <div className="mb-2" >
+        <div className="mb-4" >
           <input
-            className="border rounded-md border-gray-500 p-1"
+            className="border rounded-md border-gray-500 p-2"
             value={asunto}
             onChange={(e) => {
               setAsunto(e.target.value);
@@ -19,7 +19,7 @@ export const FormContact = () => {
         <label>Mensaje </label>
         <div className="mb-2">
           <input
-            className="border rounded-md border-gray-500 p-1"
+            className="border rounded-md border-gray-500 p-2"
             value={body}
             onChange={(e) => {
               setBody(e.target.value);
