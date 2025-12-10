@@ -11,7 +11,7 @@ export const Portafolio= () => {
 
   return (
     <>
-  <main className='font-sans bg-white text-gray-900'> 
+  <main className='font-sans min-h-screen bg-[#23253a] text-[#d6d4e5]'> 
     <Header />
       <About />
       <Projects />

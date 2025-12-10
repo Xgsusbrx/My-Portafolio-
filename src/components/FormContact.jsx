@@ -28,7 +28,7 @@ export const FormContact = () => {
         </div>
         <a
           href={`mailto:brian95gsus@gmail.com?body=${body}&subject=${asunto}`}
-          className="text-white bg-black rounded-full px-3 py-1 cursor-pointer border border-black hover:text-black hover:bg-white hover:border hover:border-black"
+          className="inline-block mt-4 text-white bg-[#ff5253] rounded-full px-3 py-1 cursor-pointer border border-black hover:text-black hover:bg-white hover:border hover:border-black"
         >
           Enviar
         </a>
