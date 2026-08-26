@@ -1,4 +1,11 @@
 export const projects = [
+   {
+    title: 'Lotus clean (Mi proyecto mas grande hasta el momento :) )',
+    description: 'Sistema de gestión para empresas de limpieza, desarrollado en Ruby on Rails. Centraliza clientes, direcciones, cuadrillas y servicios en un flujo de trabajo único: desde el alta de un ticket hasta su seguimiento en un calendario semanal interactivo. Incluye envío automático de confirmaciones por WhatsApp, mapas integrados para geolocalizar direcciones y una interfaz moderna construida con Tailwind CSS y Stimulus JS. Pensado para simplificar la operación diaria de negocios de servicios con múltiples clientes y equipos en movimiento..',
+    image: '/assets/lotus.png',
+    url: 'https://app.lotuscompany.ar/',
+    repo:'https://github.com/Xgsusbrx/lotus',
+  },
   {
     title: 'TuReceta.app',
     description: 'Permite calcular ingredientes y costos por unidad.',
@@ -31,5 +38,14 @@ export const projects = [
     image:'/assets/invitacionde boda .png',
     url:'https://samuelydaiana.netlify.app/',
     repo:'https://github.com/Xgsusbrx/invitacion-Boda-'
+  },
+  {
+    title:'Invitacion de aniversario',
+    description:'Pagina invitacion interactiva y responsive, con enlaces para ubicacion y formulario',
+    image:'/assets/invitacionaniversario.png',
+    url:'https://yoliyariel.netlify.app/',
+    repo:'https://github.com/Xgsusbrx/invitacion-Aniversario'
   }
+
+
 ];

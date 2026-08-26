@@ -8,7 +8,7 @@ export const Header = () => {
       
       <h1 className="text-4xl md:text-6xl font-bold">Hola, soy Brian</h1>
       <p className="mt-4 text-xl text-[#d6d4e5]">
-        Desarrollador Frontend con React
+        Desarrollador Fullstack
       </p>
       <a
         href="#projects"
