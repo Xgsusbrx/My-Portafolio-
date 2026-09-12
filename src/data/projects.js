@@ -8,7 +8,7 @@ export const projects = [
   },
   {
     title: 'TuReceta.app',
-    description: 'Permite calcular ingredientes y costos por unidad.',
+    description: '¿Necesitas calcular cuánto cuesta elaborar una receta para tu emprendimiento? TuRecetaApp te ayuda a obtener el costo total y el precio por unidad sin tener que hacer los cálculos manualmente. Solo debes ingresar los ingredientes, cantidades y precios paso a paso, y la aplicación se encarga del resto.',
     image: '/assets/tuReceta.png',
     url: 'https://turecetaapp.netlify.app/',
     repo:'https://github.com/Xgsusbrx',
@@ -22,7 +22,7 @@ export const projects = [
   },
   {
     title: 'Calculadora de Vuelto',
-    description: 'Es una calculadora pensada en los comercios en Venezuela para dar vuelto tratando con 2 monedas diferentes y sus decimales',
+    description: 'Una calculadora pensada para los comercios venezolanos que necesitan calcular el vuelto combinando dólares y bolívares. La aplicación consulta automáticamente la tasa de cambio mediante una API y, a partir del precio y el billete recibido, indica rápidamente cuánto devolver',
     image: '/assets/imagencalculadora.png',
     url: 'https://calculadoradevuelto.netlify.app/',
     repo: 'https://github.com/Xgsusbrx'
