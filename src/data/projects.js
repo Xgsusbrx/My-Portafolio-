@@ -15,7 +15,7 @@ export const projects = [
   },
   {
     title: 'GifExpertApp',
-    description: 'Buscador de GIFs con categorías dinámicas.',
+    description: 'Aplicación web para buscar y explorar GIFs mediante la integración con una API externa. Permite realizar búsquedas y navegar por categorías dinámicas, mientras conserva los resultados consultados anteriormente para facilitar su acceso y mejorar la experiencia de usuario.',
     image: '/assets/gifExpert.png',
     url: 'https://gif-expert-tarea.netlify.app/',
     repo:'https://github.com/Xgsusbrx'
@@ -29,19 +29,21 @@ export const projects = [
   },
   {
     title:'Total Ventas del dia',
-    description:'Es una app que une los totales ingresados en un negocio y hace los calculos segun el precio del dolar en el momento ',
-    image:'/assets/imagen ventas del dia .png'
+    description:'Aplicación web para la gestión de las ventas diarias de un negocio. Permite registrar y consolidar los ingresos del día, realizando automáticamente los cálculos y conversiones según la cotización actual del dólar, obtenida mediante una API externa. El objetivo es simplificar el control de las ventas y evitar cálculos manuales, ofreciendo resultados actualizados y precisos en un solo lugar.',
+    image:'/assets/imagen ventas del dia .png',
+    url:'https://totalventasdeldia.netlify.app/' ,
+    repo: 'https://github.com/Xgsusbrx/Ventas-del-dia-'
   },
   {
     title:'Invitacion de Boda',
-    description:'Pagina invitacion de boda interactiva y responsive, con enlaces para ubicacion y formulario',
+    description:'Página web de invitación digital, diseñada con un enfoque responsive e interactivo. Incluye un contador regresivo hasta la fecha del evento, acceso directo a la ubicación mediante Google Maps y un formulario para confirmar asistencia. El proyecto busca centralizar toda la información del evento en una experiencia simple, accesible y adaptada a dispositivos móviles.',
     image:'/assets/invitacionde boda .png',
     url:'https://samuelydaiana.netlify.app/',
     repo:'https://github.com/Xgsusbrx/invitacion-Boda-'
   },
   {
     title:'Invitacion de aniversario',
-    description:'Pagina invitacion interactiva y responsive, con enlaces para ubicacion y formulario',
+    description:'Tambien es una página web de invitación digital, diseñada con un enfoque responsive e interactivo con diseño un poco diferente. acceso directo a la ubicación mediante Google Maps y un formulario para confirmar asistencia. Invitacion adaptada a dispositivos móviles.',
     image:'/assets/invitacionaniversario.png',
     url:'https://yoliyariel.netlify.app/',
     repo:'https://github.com/Xgsusbrx/invitacion-Aniversario'
