@@ -7,8 +7,10 @@ export const Header = () => {
       />
       
       <h1 className="text-4xl md:text-6xl font-bold">Hola, soy Brian</h1>
-      <p className="mt-4 text-xl text-[#d6d4e5]">
-        Desarrollador Fullstack
+      <h2 className="text-2xl md:text-2xl font-bold mt-4">Desarrollador Web Full Stack</h2>
+      <p className="mt-4 text-xl text-[#d6d4e5]">   
+
+Desarrollo sitios web, aplicaciones y soluciones a medida para negocios y proyectos digitales.
       </p>
       <a
         href="#projects"

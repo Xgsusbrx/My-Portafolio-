@@ -3,6 +3,10 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import {Services}  from './components/Services';
+import { Practice } from './components/Practice';
+import { Stack } from './components/Stack';
+
 
 
 
@@ -14,9 +18,13 @@ export const Portafolio= () => {
   <main className='font-sans min-h-screen bg-[#23253a] text-[#d6d4e5]'> 
     <Header />
       <About />
+      <Services/>
       <Projects />
+      <Practice/>
+      <Stack/>
       <Contact />
       <Footer />
+      
     </main>   
     </>
   )
